@@ -1,9 +1,10 @@
 # NLOS-and-LOS-data
  On 9th December 2016, at Wilab.t in Zwijnaarde where 15 UWB Pozyx devices are deployed (12 fixed anchors and 3 mounted on mobile robots), multiple ranging measurements were performed. The UWB radio settings were the following: 
- Channel 2 
- Bitrate 6.81 Mbps 
- Preamble length 128 symbols 
- PRF 16 MHz 
+
+* Channel 2 
+* Bitrate 6.81 Mbps 
+* Preamble length 128 symbols 
+* PRF 16 MHz 
 
 The experiment consisted of two main phases: 
 1. Discovery To individuate the available anchors 
